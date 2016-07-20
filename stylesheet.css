@@ -7,9 +7,12 @@ a {
 }
 
 body {
-    background-image: : url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhAe5zgShi7-is0vjzYmN_Q9vHtcqWRvkXSyDBnXY6bXxNZBPm);
+    background-image:url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhAe5zgShi7-is0vjzYmN_Q9vHtcqWRvkXSyDBnXY6bXxNZBPm");
 }
 
 body {
     font-family: Poiret One
+}
+ul {
+    list-style-type: none;
 }
