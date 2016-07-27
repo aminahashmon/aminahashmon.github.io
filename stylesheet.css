@@ -19,3 +19,12 @@ ul {
 p.big {
     line-height: 200%;
 }
+html {
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+.food-bg {
+background: url(http://henridemarne.com/wp-content/uploads/2013/08/Wooden-table-outdoors.jpg) no-repeat center center fixed;
+}
