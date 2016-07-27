@@ -16,3 +16,6 @@ body {
 ul {
     list-style-type: none;
 }
+p.big {
+    line-height: 200%;
+}
